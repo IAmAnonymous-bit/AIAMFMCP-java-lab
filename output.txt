@@ -1,0 +1,4 @@
+Num of Cheeses: 1042
+Pasteurized Cheeses: 793
+Organic and Moisturized Cheese: 52
+Most Used Animal Milk: Cow - 754
